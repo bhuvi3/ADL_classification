@@ -1,0 +1,74 @@
+Analysis running on: A
+Training: MLP_Classifier_2
+1: Model Saved =>../results/A/MLP_Classifier_2.model
+Training: Logistic_Regression
+2: Model Saved =>../results/A/Logistic_Regression.model
+Training: Bayes_Network
+3: Model Saved =>../results/A/Bayes_Network.model
+Training: Naive_Bayes
+4: Model Saved =>../results/A/Naive_Bayes.model
+Training: Random_Forest
+5: Model Saved =>../results/A/Random_Forest.model
+Training: Adaboost
+6: Model Saved =>../results/A/Adaboost.model
+Calculating Scores: MLP_CLASSIFIER_2
+1: Test Scores Saved =>../results/A/MLP_Classifier_2_scores.csv
+Calculating Scores: LOGISTIC_REGRESSION
+2: Test Scores Saved =>../results/A/Logistic_Regression_scores.csv
+Calculating Scores: BAYES_NETWORK
+3: Test Scores Saved =>../results/A/Bayes_Network_scores.csv
+Calculating Scores: NAIVE_BAYES
+4: Test Scores Saved =>../results/A/Naive_Bayes_scores.csv
+Calculating Scores: RANDOM_FOREST
+5: Test Scores Saved =>../results/A/Random_Forest_scores.csv
+Calculating Scores: ADABOOST
+6: Test Scores Saved =>../results/A/Adaboost_scores.csv
+Evaluating Metrics: MLP_Classifier_2_scores
+Exception while Evaluating area under ROC and PR curves: MLP_Classifier_2_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Logistic_Regression_scores
+Exception while Evaluating area under ROC and PR curves: Logistic_Regression_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Bayes_Network_scores
+Exception while Evaluating area under ROC and PR curves: Bayes_Network_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Naive_Bayes_scores
+Exception while Evaluating area under ROC and PR curves: Naive_Bayes_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Random_Forest_scores
+Exception while Evaluating area under ROC and PR curves: Random_Forest_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Adaboost_scores
+Exception while Evaluating area under ROC and PR curves: Adaboost_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Analysis running on: B
+Training: MLP_Classifier_2
+1: Model Saved =>../results/B/MLP_Classifier_2.model
+Training: Logistic_Regression
+2: Model Saved =>../results/B/Logistic_Regression.model
+Training: Bayes_Network
+3: Model Saved =>../results/B/Bayes_Network.model
+Training: Naive_Bayes
+4: Model Saved =>../results/B/Naive_Bayes.model
+Training: Random_Forest
+5: Model Saved =>../results/B/Random_Forest.model
+Training: Adaboost
+6: Model Saved =>../results/B/Adaboost.model
+Calculating Scores: MLP_CLASSIFIER_2
+1: Test Scores Saved =>../results/B/MLP_Classifier_2_scores.csv
+Calculating Scores: LOGISTIC_REGRESSION
+2: Test Scores Saved =>../results/B/Logistic_Regression_scores.csv
+Calculating Scores: BAYES_NETWORK
+3: Test Scores Saved =>../results/B/Bayes_Network_scores.csv
+Calculating Scores: NAIVE_BAYES
+4: Test Scores Saved =>../results/B/Naive_Bayes_scores.csv
+Calculating Scores: RANDOM_FOREST
+5: Test Scores Saved =>../results/B/Random_Forest_scores.csv
+Calculating Scores: ADABOOST
+6: Test Scores Saved =>../results/B/Adaboost_scores.csv
+Evaluating Metrics: MLP_Classifier_2_scores
+Exception while Evaluating area under ROC and PR curves: MLP_Classifier_2_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Logistic_Regression_scores
+Exception while Evaluating area under ROC and PR curves: Logistic_Regression_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Bayes_Network_scores
+Exception while Evaluating area under ROC and PR curves: Bayes_Network_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Naive_Bayes_scores
+Exception while Evaluating area under ROC and PR curves: Naive_Bayes_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Random_Forest_scores
+Exception while Evaluating area under ROC and PR curves: Random_Forest_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
+Evaluating Metrics: Adaboost_scores
+Exception while Evaluating area under ROC and PR curves: Adaboost_scoresOnly one class present in y_true. ROC AUC score is not defined in that case.
